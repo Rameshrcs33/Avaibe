@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/effects/beard",
+      "sha1": "c305727fbb978926a5e468f6b0e7765b1451f7ce"
+    },
+    {
+      "path": "assets/effects/face_painting",
+      "sha1": "9d9a940b386ea513349c5cf512bc356938ae4e42"
+    }
+  ]
+}
